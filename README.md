@@ -1,4 +1,4 @@
-# ECS_ApplePicker
+# ApplePicker_ECS
 **NAU CS413 Unity ECS Rework for Apple Picker**
 
 Created by Noah Gooby, 2023
